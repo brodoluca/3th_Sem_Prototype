@@ -14,7 +14,7 @@ In paralell with the solutionEvery team member will develop documentation (mostl
 If protocols or a description of the project is required, it will be described here in more details.
 
 The group will meet at least once per week (outside the timetable) where solutions will be discussed and implemented. 
-Every team member is responsible for one feature, and will work on that during their proper time. 
+Every team member is responsible for one feature, and will work on that during their own time. 
 
 We will try to use the Waterfall method as Software process model. This will give us a very fixed methodology and steps
 to follow before implementing the effective solution. In combination with this method, howevere, we will also use the incremental 
