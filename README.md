@@ -10,7 +10,7 @@ We follow this school of thought : " too many cocks in the barn won't solve the 
 will choose a specific feature to work on and their will come up with a solution.
 This resulted on a more organized project. However, before implementing the solution each member 
 will show and explain it to the rest of the team, so that everyone can discuss it and try to improve it. 
-In paralell with the solutionEvery team member will develop documentation (mostly atm diagrams and code z.B. Arduino Sketches properly commented)
+In paralell with the solutionEvery team member will develop documentation (mostly umml diagrams (I am sorry Gordan)and code z.B. Arduino Sketches properly commented)
 If protocols or a description of the project is required, it will be described here in more details.
 
 The group will meet at least once per week (outside the timetable) where solutions will be discussed and implemented. 
