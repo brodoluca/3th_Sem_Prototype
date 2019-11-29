@@ -27,3 +27,5 @@ if the 80% of the solution is implemented is enugh, sell the rest 20 with update
 
 Before implementing further and more complicated feature, the group will meet to discuss a paper prototpe to follow, so that we will have a 
 model from which we will base every and each update (error correction, new features and so on).
+
+The team has a whatsapp group with which will communicate solutions and status updates.
