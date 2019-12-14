@@ -29,3 +29,28 @@ Before implementing further and more complicated feature, the group will meet to
 model from which we will base every and each update (error correction, new features and so on).
 
 The team has a whatsapp group with which will communicate solutions and status updates.
+
+
+
+OPENCV 
+g++ -o test test.cpp $(pkg-config --cflags --libs opencv)
+
+//other 
+g++ -o test test.cpp -lopencv_highgui -lopencv_core
+
+
+CONNECTION
+cc -o myprog myprog.c -lwiringPi
+
+
+correct version
+1.6
+
+correct exe file
+myprogeett
+
+SCP
+scp myfile.txt myfile2.txt pi@192.168.1.3:
+
+
+
