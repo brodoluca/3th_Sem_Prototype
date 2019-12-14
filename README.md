@@ -52,5 +52,7 @@ myprogeett
 SCP
 scp myfile.txt myfile2.txt pi@192.168.1.3:
 
+run exe
+sudo ./myexefile
 
 
