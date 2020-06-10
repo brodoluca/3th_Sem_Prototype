@@ -31,6 +31,9 @@ model from which we will base every and each update (error correction, new featu
 The team has a whatsapp group with which will communicate solutions and status updates.
 
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Run Code:
 
 OPENCV 
 g++ -o test test.cpp $(pkg-config --cflags --libs opencv)
